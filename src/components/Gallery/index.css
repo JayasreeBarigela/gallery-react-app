@@ -1,0 +1,18 @@
+/* Write your code here. */
+.container {
+  height: 100vh;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+}
+
+.image {
+  width: 60%;
+}
+
+.list-container {
+  list-style: none;
+  display: flex;
+}
